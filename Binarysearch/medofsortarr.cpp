@@ -9,7 +9,7 @@ Average of max left & min right if even
 
 You're essentially finding the correct split point where left half's maximum ≤ right half's minimum in a 
 combined sorted array without actually merging the two arrays — by cleverly choosing positions in A and B via binary search.
-
+check the edge cases thats where this q becomes hard
 */
 #include <vector>
 #include <iostream>
